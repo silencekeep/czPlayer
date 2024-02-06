@@ -5,7 +5,7 @@ import cv2
 st = [[[]]]
 
 i = 0
-video_path = 'C:\\Users\\56279\\Desktop\\video.mp4'
+video_path = 'C:\\Users\\xxxxx\\Desktop\\video.mp4'
 cap = cv2.VideoCapture(video_path)
 print(cap)
 if cap.isOpened():
